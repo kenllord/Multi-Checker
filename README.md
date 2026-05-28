@@ -11,11 +11,10 @@ Supercell checking<br>
 Tiktok checking<br>
 Minecraft checking<br>
 
+# add ur account usr:pass in combo.txt file
 
+To run the script
 ```bash
+pip install -r requirements.txt
 python main.py
-```
-
-
-# add ur account usr:pass in combo.txt file  
-# python main.py
+```  
