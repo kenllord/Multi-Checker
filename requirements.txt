@@ -1,12 +1,1 @@
-json
-uuid
-re
-time
-os
-sys
-datetime
-pathlib
-threading
-concurrent.futures
-collections
-urllib.parse
+requests
