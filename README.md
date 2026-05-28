@@ -13,7 +13,5 @@ Minecraft checking<br>
 
 
 # pip install -r requirements.txt
-
 # add ur account usr:pass in combo.txt file  
-
 # python main.py
