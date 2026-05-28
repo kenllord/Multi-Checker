@@ -12,6 +12,8 @@ Tiktok checking<br>
 Minecraft checking<br>
 
 
+# pip install -r requirements.txt
 
+# add ur account usr:pass in combo.txt file  
 
-Showcase : <img width="882" height="694" alt="image" src="https://github.com/user-attachments/assets/2fd758c5-a019-4bf0-8989-b87a7d945df6" />
+# python main.py
