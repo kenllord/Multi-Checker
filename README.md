@@ -12,6 +12,10 @@ Tiktok checking<br>
 Minecraft checking<br>
 
 
-# pip install -r requirements.txt
+```bash
+python main.py
+```
+
+
 # add ur account usr:pass in combo.txt file  
 # python main.py
