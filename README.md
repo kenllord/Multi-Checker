@@ -1,4 +1,4 @@
-# Hotmail-Checker
+# Multi-Hotmail-Checker
 
 Features :
 
